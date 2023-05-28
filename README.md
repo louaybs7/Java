@@ -1,8 +1,8 @@
 # Java-Games
-1ST project 
+#1ST project 
 Create a simulation of the Capitaly game with different players and strategies. Players move around a cyclical board based on dice rolls. Fields on the board can be properties, services, or lucky fields. Properties can be bought and developed with houses. Stepping on an owned property incurs a payment to the owner based on the presence of a house. Services require payments to the bank, while lucky fields provide the player with money. Three strategies exist: greedy, careful, and tactical. Game parameters are read from a text file, including field types and costs. If a player runs out of money, they lose, and their properties become available to buy. The program should be able to read roll dice values from the file and identify the second loser.
 
-2nd_Project (Four Game)
+#2nd_Project (Four Game)
 This a two-player game is played on a board consists of n x n fields, where each field contains a value 
 between 0 and 4. Initially, all the fields contain the value of 0. If a player chooses a field, then the value 
 of the field and its neighbours incremented by one (if the value is less than 4). The player’s score 
